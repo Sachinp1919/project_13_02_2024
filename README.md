@@ -14,7 +14,7 @@ venv\Scripts\venv -for windows
 
 cd viewsets_project
 
-pip install -r requiremenets.txt
+pip install -r requirements.txt
 
 py manage.py makemigrations
 
